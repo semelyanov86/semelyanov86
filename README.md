@@ -7,7 +7,7 @@ I'm currently working at MoreAtHome - A renovation calculation app in Germany.
 Formerly co-founder & Tech Lead/Architect at [Center of information technologies](https://itvolga.com) - CRM and ERP provider in Russia.
 I am sometimes available for freelance work. 
 
-[![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=semelyanov86)](https://github.com/semelyanov86/github-readme-stats)
+[![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=semelyanov86)]
 
 ## Some links
 
